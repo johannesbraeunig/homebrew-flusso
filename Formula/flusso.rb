@@ -1,8 +1,8 @@
 class Flusso < Formula
   desc "Sync MoneyMoney transactions to YNAB"
   homepage "https://github.com/johannesbraeunig/flusso"
-  url "https://github.com/johannesbraeunig/flusso/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "ac504610c28f8d14308cfcd2cb6deb0aa63309cc3e56b61da50621296bfd3c2a"
+  url "https://github.com/johannesbraeunig/flusso/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "92a46dbeab3bf0430e91a9ace545c02e1499953d9bc587c5547fd448e555ea3c"
   license "MIT"
 
   depends_on :macos
